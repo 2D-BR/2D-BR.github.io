@@ -1,6 +1,12 @@
 /* ------------------------- */
 /* Estilos Generales */
 /* ------------------------- */
+.nota-descriptiva {
+     font-style: italic;
+     color: #4a4a4a; /* Un color gris oscuro para que combine bien */
+     margin-top: 20px;
+     text-align: center;
+ }
 
 .menu-titulo {
      font-size: 35px;
